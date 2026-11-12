@@ -45,6 +45,9 @@ LIGHTING & ATMOSPHERE:
 - Pure white background, soft studio key light from upper-left
 - Gentle ambient glow around the glass, subtle sparkle particles
 - Generous white breathing space, NOT heavy neon
+- NO shadow on the white background: remove any drop shadow / contact shadow where the
+  last (rearmost / bottom-most) object meets the white ground — the icon floats on pure
+  white with nothing cast beneath or behind it
 
 ═══════════════════════════════════════════
 COMPOSITION & ANGLE:
@@ -61,6 +64,8 @@ NEGATIVE / AVOID:
 - glass must stay visible against the white (subtle rim light), NOT lost in the background
 - NOT colorless, NOT clear-white glass
 - NOT heavy neon, NOT washed-out, NO text, NO watermark, NO clutter, NO floor, NO reflection
+- NO drop shadow, NO contact shadow, NO ground shadow where the last object touches the
+  white background — the white stays perfectly clean (#FFFFFF) right up to the object's edge
 - [2+ OBJECTS ONLY] objects touching or fused together, front objects stuck flat on the surface,
   no gap between layers, layers at mismatched random angles
 
